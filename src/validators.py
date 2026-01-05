@@ -1,6 +1,3 @@
-#Implementar el to lower
-
-#Evitar quue se guarden los nombres con espacios
 import re
 
 def validate_email(email):
