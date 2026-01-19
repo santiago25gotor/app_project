@@ -1,0 +1,64 @@
+{
+    "David": {
+        "email": "davidgomezgarcia00@gmail.com",
+        "password": "6c3b35fa5866d531b0522942caa1d3b5b6021a3841a2c5df9bfa5e60f8aa62fd"
+    },
+    "santiago": {
+        "email": "santiago25goam@gmail.co",
+        "password": "ee0db45d5665dcfb64da36d27de670a51c98925ea4246a4ad67471e3c3c6822b"
+    },
+    "santiago25": {
+        "email": "santiago@gmail.com",
+        "password": "ee0db45d5665dcfb64da36d27de670a51c98925ea4246a4ad67471e3c3c6822b"
+    },
+    "ikergay04": {
+        "email": "123@gmail.com",
+        "password": "01f89c7b88b50b6dace2d5399317296e895ec249a547aa7b83257b7fc209a7fc"
+    },
+    "x_brrgotor": {
+        "email": "santiago25goam@gmail.com",
+        "password": "ee0db45d5665dcfb64da36d27de670a51c98925ea4246a4ad67471e3c3c6822b",
+        "verified": true,
+        "verification_code": null,
+        "code_expires_at": null
+    },
+    "amarelby": {
+        "email": "amarelby@gmail.com",
+        "password": "23d50ce835a124ca135dda8ef248f551b0895ff8de8d41cb39d2982dc36acd66",
+        "verified": true,
+        "verification_code": null,
+        "code_expires_at": null
+    },
+    "pierre": {
+        "email": "bat223@hotmail.com",
+        "password": "ee0db45d5665dcfb64da36d27de670a51c98925ea4246a4ad67471e3c3c6822b",
+        "verified": true,
+        "verification_code": null,
+        "code_expires_at": null
+    },
+    "davidpc04": {
+        "email": "davidgomezgarciaspotify@gmail.com",
+        "password": "718c7fdc75a0906868602921ae5c27300f24fb1b84e0962776a294935b3cebf7",
+        "verified": true,
+        "verification_code": null,
+        "code_expires_at": null
+    },
+    "santiago25goam": {
+        "email": "gotorsantiago47@gmail.com",
+        "password": "ee0db45d5665dcfb64da36d27de670a51c98925ea4246a4ad67471e3c3c6822b",
+        "verified": true,
+        "verification_code": null,
+        "code_expires_at": null,
+        "reset_code": null,
+        "reset_expires_at": null
+    },
+    "albacete32": {
+        "email": "lasecretadiascreta@gmail.com",
+        "password": "ee0db45d5665dcfb64da36d27de670a51c98925ea4246a4ad67471e3c3c6822b",
+        "verified": true,
+        "verification_code": null,
+        "code_expires_at": null,
+        "reset_code": "433475",
+        "reset_expires_at": "2026-01-19T10:58:49.219565"
+    }
+}
