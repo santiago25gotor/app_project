@@ -474,8 +474,8 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 **David y Santiago**
 
-- GitHub: [@santiago25gotor](https://github.com/santiago25gotor) y [@santiago25gotor](https://github.com/santiago25gotor)
-- Email: davidgomezgarcia00@gmail.com
+- GitHub: [@davidggarciiia](https://github.com/davidggarciiia) y [@santiago25gotor](https://github.com/santiago25gotor)
+- Email: davidgomezgarcia00@gmail.com y santiago25goam@gmail.com
 
 ## 🙏 Agradecimientos
 
