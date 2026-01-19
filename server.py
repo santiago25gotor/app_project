@@ -28,9 +28,7 @@ app.add_middleware(
 
 db = Database()
 
-# -----------------------------
-# Models
-# -----------------------------
+
 class UserLogin(BaseModel):
     username: str
     password: str
@@ -61,9 +59,6 @@ class ResetPassword(BaseModel):
     new_password: str
 
 
-# -----------------------------
-# Auth Routes
-# -----------------------------
 @app.post("/api/login")
 def login(user: UserLogin):
     success, message = db.authenticate(user.username.lower(), user.password)
@@ -192,9 +187,6 @@ def get_team_detail(team_name: str):
     return data
 
 
-# -----------------------------
-# Scout Routes
-# -----------------------------
 @app.post("/api/scout")
 def scout_player(search: PlayerSearch):
     result = search_player_api(search.name)
@@ -203,9 +195,7 @@ def scout_player(search: PlayerSearch):
     return result
 
 
-# -----------------------------
-# Static Frontend
-# -----------------------------
+
 static_path = os.path.join(os.getcwd(), "frontend_static")
 if not os.path.exists(static_path):
     os.makedirs(static_path)
@@ -226,3 +216,4 @@ if __name__ == "__main__":
     print("Iniciando servidor... El navegador se abrirá automáticamente.")
     threading.Thread(target=open_browser, daemon=True).start()
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
